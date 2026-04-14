@@ -3,11 +3,14 @@ views:
     name: 表格
     order:
       - file.name
-      - file.backlinks
       - file.basename
-      - file.ctime
-      - file.embeds
-      - file.folder
+      - file.backlinks
+      - file.links
       - file.mtime
-      - file.size
+      - file.path
       - file.tags
+      - file.size
+    sort: []
+    columnSize:
+      file.name: 357
+      file.backlinks: 194
