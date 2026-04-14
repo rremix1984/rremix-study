@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-日记本/2026-04-14.md",
+                "file": "3-大模型学习/Kapathy LLM WIKI学习/karpathy wiki 方法论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-14"
+              "title": "karpathy wiki 方法论"
             }
           }
         ]
@@ -185,11 +185,13 @@
   },
   "active": "cb946a824f82778e",
   "lastOpenFiles": [
+    "1-日记本/2026-04-14.md",
+    "3-大模型学习/Kapathy LLM WIKI学习/karpathy wiki 方法论.md",
+    "3-大模型学习/Kapathy LLM WIKI学习",
     "3-大模型学习",
     "2-日常工作",
     "1-日记本",
     "欢迎.md",
-    "1-日记本/2026-04-14.md",
     "未命名 1.canvas",
     "rename_sh.txt",
     "rename.sh",
