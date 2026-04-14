@@ -8,73 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9d9e0d65deeb9053",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-学习笔记/1 大模型学习/1-1 Kapathy LLM 知识体系/LLM 知识库：Karpathy 的第一手方法论全解析.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LLM 知识库：Karpathy 的第一手方法论全解析"
-            }
-          },
-          {
-            "id": "b605050e577ab9f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-学习笔记/1 大模型学习/1-2 LLM WIki学习/Karpathy LLM-Wiki Skill 已开源公开.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Karpathy LLM-Wiki Skill 已开源公开"
-            }
-          },
-          {
-            "id": "9745f500707e44c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-学习笔记/1 大模型学习/1-2 LLM WIki学习/Karpathy LLM-Wiki Skill 已开源公开.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Karpathy LLM-Wiki Skill 已开源公开"
-            }
-          },
-          {
             "id": "5072bb0f0bb40025",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "smart-release-notes-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-release-notes-view"
+              "type": "pdf",
+              "state": {
+                "file": "4-pdf汇总/《红楼梦》EBOOKS/红楼梦研究集刊.第03辑.pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "红楼梦研究集刊.第03辑"
             }
           },
           {
-            "id": "f0ebcb4c5572969b",
+            "id": "a1d3a0d4353f47ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-日记本/2026-04-14.md",
+                "file": "3-学习笔记/1 大模型学习/1-2 LLM WIki学习/企业级知识库与文档智能系统学习规划.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-14"
+              "title": "企业级知识库与文档智能系统学习规划"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,17 +109,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-大模型学习/Kapathy LLM WIKI学习/karpathy wiki 方法论2.md",
+                "file": "4-pdf汇总/《红楼梦》EBOOKS/朱一玄：红楼梦脂评校录.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "karpathy wiki 方法论2 的反向链接列表"
+              "title": "朱一玄：红楼梦脂评校录 的反向链接列表"
             }
           },
           {
@@ -166,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-大模型学习/Kapathy LLM WIKI学习/karpathy wiki 方法论2.md",
+                "file": "4-pdf汇总/《红楼梦》EBOOKS/朱一玄：红楼梦脂评校录.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "karpathy wiki 方法论2 的出链列表"
+              "title": "朱一玄：红楼梦脂评校录 的出链列表"
             }
           },
           {
@@ -209,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-04-13.md",
+                "file": "rremix-database.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-04-13 的大纲"
+              "title": "rremix-database 的大纲"
             }
           },
           {
@@ -229,16 +191,6 @@
             }
           },
           {
-            "id": "bd7b663c9fdd14ec",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
             "id": "3157a78006fc13cf",
             "type": "leaf",
             "state": {
@@ -247,13 +199,27 @@
               "icon": "SpacedRepIcon",
               "title": "笔记复习序列"
             }
+          },
+          {
+            "id": "f0ebcb4c5572969b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-pdf汇总/《红楼梦》EBOOKS/未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 855.5
+    "width": 721.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,50 +233,52 @@
       "copilot:Open Copilot Chat": false,
       "obsidian-spaced-repetition:复习卡片": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "9745f500707e44c8",
+  "active": "cb946a824f82778e",
   "lastOpenFiles": [
+    "3-学习笔记/1 大模型学习/1-4 Hermes学习",
+    "3-学习笔记/1 大模型学习/1-3 Graphify学习",
+    "copilot/copilot-conversations/Number_Comparison@20260414_183234.md",
+    "4-pdf汇总/《红楼梦》EBOOKS/未命名 1.md",
+    "4-pdf汇总/《红楼梦》EBOOKS/未命名.md",
+    "3-学习笔记/1 大模型学习/1-1 Kapathy LLM 知识体系/我用Andrej Karpathy 的方法重建了Obsidian 知识库，太香了.md",
+    "4-pdf汇总/《红楼梦》EBOOKS/红楼梦研究集刊.第03辑.pdf",
+    "4-pdf汇总/《红楼梦》EBOOKS/春柳堂诗稿　高兰墅集.pdf",
+    "4-pdf汇总/《红楼梦》EBOOKS/蔡义江解读红楼.pdf",
+    "4-pdf汇总/《红楼梦》EBOOKS/邓遂夫：草根红学杂俎.pdf",
+    "4-pdf汇总/《红楼梦》EBOOKS/红楼梦王蒙评点（增补版）.pdf",
+    "rremix-database.base",
+    "4-pdf汇总/《红楼梦》EBOOKS/红楼梦：八十回石头记.周汝昌精校本.pdf",
+    "3-学习笔记/1 大模型学习/1-2 LLM WIki学习/Karpathy LLM-Wiki Skill 已开源公开.md",
+    "4-pdf汇总/《红楼梦》EBOOKS/红楼梦辞典(周汝昌主编).pdf",
+    "4-pdf汇总/《红楼梦》EBOOKS/蔡义江：红楼梦诗词曲赋鉴赏.pdf",
+    "1-日记本/2026-04-14.md",
+    "1-日记本/2026-04-13.md",
+    "1-日记本/日记-模板.md",
+    "2026-04-14.md",
+    "karpathy.md",
+    "copilot/copilot-conversations/Number_Comparison@20260414_125740.md",
+    "3-学习笔记/1 大模型学习/1-1 Kapathy LLM 知识体系/Andrej Karpathy：完整LLM wiki 构建提示词! 基于Obsidian+AI Agent的个人知识库完整构建指南.md",
     "3-学习笔记/1 大模型学习/1-1 Kapathy LLM 知识体系/LLM Wiki.md",
     "截屏2026-04-14 17.59.48.png",
     "截屏2026-04-14 17.59.48 1.png",
     "截屏2026-04-14 18.01.08.png",
-    "3-学习笔记/1 大模型学习/1-2 LLM WIki学习/Karpathy LLM-Wiki Skill 已开源公开.md",
     "3-学习笔记/1 大模型学习/1-1 Kapathy LLM 知识体系/LLM 知识库：Karpathy 的第一手方法论全解析.md",
     "3-学习笔记/1 大模型学习/1-2 LLM WIki学习/企业级知识库与文档智能系统学习规划.md",
     "3-学习笔记/1 大模型学习/1-2 LLM WIki学习/白板测试.canvas",
     "3-学习笔记/1 大模型学习/1-1 Kapathy LLM 知识体系/karpathy  LLM Wiki 方法论.md",
-    "rremix-database.base",
-    "3-学习笔记/1 大模型学习/1-1 Kapathy LLM 知识体系/我用Andrej Karpathy 的方法重建了Obsidian 知识库，太香了.md",
     "copilot/copilot-conversations/B站LLM_Wiki教程笔记@20260414_171730.md",
-    "3-学习笔记/1 大模型学习/1-1 Kapathy LLM 知识体系/Andrej Karpathy：完整LLM wiki 构建提示词! 基于Obsidian+AI Agent的个人知识库完整构建指南.md",
-    "3-学习笔记/1 大模型学习/1-2 LLM WIki学习",
-    "4-学习笔记/4-1 大模型学习/未命名",
-    "3-学习笔记/1 大模型学习",
-    "3-学习笔记",
-    "3-大模型学习/Kapathy LLM WIKI学习/未命名.base",
-    "未命名.md",
     "Karpathy.md",
-    "1-日记本/2026-04-14.md",
     "3-大模型学习/Kapathy LLM WIKI学习/LLM Wiki 方法论原文.md",
-    "1-日记本/2026-04-13.md",
     "copilot/copilot-conversations/Connection_Error_Overfitting@20260414_140555.md",
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-conversations/LLM_Wiki_Explained@20260414_144423.md",
     "copilot/copilot-conversations/Learning_Cards_Methodology@20260414_124219.md",
-    "copilot/copilot-conversations/Number_Comparison@20260414_125740.md",
     "copilot/copilot-conversations/LLMwiki_Methodology@20260414_115207.md",
-    "2026-04-14.md",
     "Excalidraw/Drawing 2026-04-14 12.09.19.excalidraw.md",
-    "Excalidraw",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-conversations",
-    "copilot/copilot-custom-prompts",
-    "copilot",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
