@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-学习笔记/1 大模型学习/1-1 Kapathy LLM 知识体系/Andrej Karpathy：完整LLM wiki 构建提示词! 基于Obsidian+AI Agent的个人知识库完整构建指南.md",
+                "file": "3-学习笔记/1 大模型学习/1-1 Kapathy LLM 知识体系/karpathy  LLM Wiki 方法论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Andrej Karpathy：完整LLM wiki 构建提示词! 基于Obsidian+AI Agent的个人知识库完整构建指南"
+              "title": "karpathy  LLM Wiki 方法论"
             }
           },
           {
@@ -41,8 +41,8 @@
             "state": {
               "type": "smart-release-notes-view",
               "state": {},
-              "icon": "file-text",
-              "title": "Release Notes"
+              "icon": "lucide-ghost",
+              "title": "smart-release-notes-view"
             }
           },
           {
@@ -220,8 +220,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
             }
           },
           {
@@ -251,20 +251,18 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "copilot:Open Copilot Chat": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Connections: Open random connection": false,
-      "smart-connections:Smart Lookup: Open lookup view": false,
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
   "active": "9745f500707e44c8",
   "lastOpenFiles": [
     "3-学习笔记/1 大模型学习/1-2 LLM WIki学习/企业级知识库与文档智能系统学习规划.md",
+    "copilot/copilot-conversations/B站LLM_Wiki教程笔记@20260414_171730.md",
+    "3-学习笔记/1 大模型学习/1-1 Kapathy LLM 知识体系/LLM 知识库：Karpathy 的第一手方法论全解析.md",
+    "3-学习笔记/1 大模型学习/1-1 Kapathy LLM 知识体系/Andrej Karpathy：完整LLM wiki 构建提示词! 基于Obsidian+AI Agent的个人知识库完整构建指南.md",
     "3-学习笔记/1 大模型学习/1-1 Kapathy LLM 知识体系/我用Andrej Karpathy 的方法重建了Obsidian 知识库，太香了.md",
     "3-学习笔记/1 大模型学习/1-2 LLM WIki学习",
-    "3-学习笔记/1 大模型学习/1-1 Kapathy LLM 知识体系/LLM 知识库：Karpathy 的第一手方法论全解析.md",
     "3-学习笔记/1 大模型学习/1-1 Kapathy LLM 知识体系/karpathy  LLM Wiki 方法论.md",
-    "3-学习笔记/1 大模型学习/1-1 Kapathy LLM 知识体系/Andrej Karpathy：完整LLM wiki 构建提示词! 基于Obsidian+AI Agent的个人知识库完整构建指南.md",
     "rremix-database.base",
     "4-学习笔记/4-1 大模型学习/未命名",
     "3-学习笔记/1 大模型学习",
@@ -292,7 +290,6 @@
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "3-大模型学习/Kapathy LLM WIKI学习/Drawing 2026-04-14 12.01.39.excalidraw.md",
     "copilot/copilot-conversations",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "未命名 1.canvas",
