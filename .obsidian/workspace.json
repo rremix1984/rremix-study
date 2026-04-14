@@ -94,17 +94,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2026-04-13.md",
+                "file": "3-大模型学习/Kapathy LLM WIKI学习/karpathy wiki 方法论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-04-13 的反向链接列表"
+              "title": "karpathy wiki 方法论 的反向链接列表"
             }
           },
           {
@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "2026-04-13 的大纲"
             }
+          },
+          {
+            "id": "3f138b7b8fcbf0c5",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 548.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,11 +190,31 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "cb946a824f82778e",
+  "active": "9d9e0d65deeb9053",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/LLMwiki_Methodology@20260414_115207.md",
+    "copilot/copilot-conversations",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
     "1-日记本/2026-04-14.md",
     "3-大模型学习/Kapathy LLM WIKI学习/karpathy wiki 方法论.md",
     "3-大模型学习/Kapathy LLM WIKI学习",
