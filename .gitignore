@@ -20,6 +20,14 @@
 # Smart Connections 插件缓存数据
 .smart-env/
 
+# Graphify 输出
+graphify-out/
+.graphifyignore
+
+# Codex AI 工具
+.codex/
+.claude/
+
 # 下载工具残留文件
 *.torrent
 *.pdf.js
