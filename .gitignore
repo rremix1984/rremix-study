@@ -2,6 +2,7 @@
 .DS_Store
 
 # Obsidian - 工作区状态（频繁变化，不应跟踪）
+.obsidian/
 .obsidian/workspace.json
 .obsidian/workspaces.json
 
