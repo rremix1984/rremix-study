@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Obsidian - 工作区状态（频繁变化，不应跟踪）
+.obsidian/workspace.json
+.obsidian/workspaces.json
+
+# Obsidian - 插件目录（可通过 community-plugins.json 重新安装）
+.obsidian/plugins/
+
+# Obsidian - 个人配置
+.obsidian/hotkeys.json
+.obsidian/daily-notes.json
+.obsidian/types.json
+.obsidian/community-plugins.json
+
+# Obsidian - Copilot 索引文件（可再生）
+.obsidian/copilot-index-*.json
+
+# Smart Connections 插件缓存数据
+.smart-env/
+
+# 下载工具残留文件
+*.torrent
+*.pdf.js
+.20895B23EEA4BCB58C1DE086A4BC09F49340C052.js
+.20895B23EEA4BCB58C1DE086A4BC09F49340C052.js
